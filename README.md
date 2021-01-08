@@ -1,5 +1,5 @@
 <h1 align="center">:video_game: Rock, paper, scissors Game</h1>
-Recreation of Rock, paper, scissors game in Python with tkinter and random module
+Recreation of Rock, paper, scissors game in Python with `tkinter` and `random` module
 
 
 ### :computer: Requeriments
@@ -14,5 +14,5 @@ Recreation of Rock, paper, scissors game in Python with tkinter and random modul
 
 
 ### :camera: Screenshot
-<img src="https://raw.githubusercontent.com/Jean-carje/Rock-paper-scissors-Tkinter-Practice/master/Art/art.png" alt="game screenshot" width='60%'> 
+<img src="https://raw.githubusercontent.com/Jean-carje/Rock-paper-scissors-Tkinter-Practice/master/Art/art-screenshot.png" alt="game screenshot" width='60%'> 
 
