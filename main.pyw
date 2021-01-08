@@ -15,7 +15,7 @@ class GameScreen(tk.Tk):
         # Image Object
         self.rock = tk.PhotoImage(file="./images/rock.png")
         self.paper = tk.PhotoImage(file="./images/paper.png")
-        self.Scissors = tk.PhotoImage(file="./images/Scissorss.png")
+        self.Scissors = tk.PhotoImage(file="./images/Scissors.png")
         self.blank = tk.PhotoImage(file="./images/blank.png")
         self.center = tk.PhotoImage(file="./images/center.png")
         self.reset = tk.PhotoImage(file="./images/reset.png")
@@ -24,8 +24,9 @@ class GameScreen(tk.Tk):
         self.playerWins = 0
         self.computerWins = 0
 
-        # title, background, size
+        # title, background, size, icon
         self.title("Rock, Paper, Scissors Game")
+        self.iconphoto(False, tk.PhotoImage(file='./images/icon.png'))
         self.configure(bg="#cfdfff")
         self.geometry("800x540")
         self.resizable(False, False)
