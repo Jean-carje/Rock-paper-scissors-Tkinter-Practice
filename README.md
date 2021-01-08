@@ -7,7 +7,7 @@ Recreation of Rock, paper, scissors game in Python with tkinter and random modul
 
 
 ### :speaker: Launch game
-1. Download python and install it: `<a href="https://www.python.org/downloads/">Link</a>`
+1. Download python and install it: <a href="https://www.python.org/downloads/">Link</a>
 2. Clone or download this project  
 3. Open in explorer the project folder  
 4. Open `main.pyw`
